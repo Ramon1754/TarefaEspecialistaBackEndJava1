@@ -1,0 +1,16 @@
+Pilha:
+
+Inserção (empurrar): O(1) (amortizado).
+Remoção (desempurrar): O(1).
+Espaço: O(n), onde n é o número de elementos na pilha.
+Fila:
+
+Inserção (enfileirar): O(1) (amortizado).
+Remoção (desenfileirar): O(1).
+Espaço: O(n), onde n é o número de elementos na fila.
+Lista Encadeada:
+
+Inserção: O(n) (no pior caso, se inserido no final da lista).
+Remoção: O(n) (no pior caso, se o elemento está no final da lista).
+Busca: O(n).
+Espaço: O(n), onde n é o número de elementos na lista.
